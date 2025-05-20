@@ -31,7 +31,7 @@ Bank_OOP/
 
 ### 1. Clone the Repository
 ```
-git clone <repo-url>
+git clone <https://github.com/MohammedNoureldeen/Bank_OOP>
 cd Bank_OOP
 ```
 
